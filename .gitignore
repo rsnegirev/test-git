@@ -22,4 +22,4 @@ node_modules
 # на всех уровнях вложенности
 doc/**/*.txt
 
-INFO.md
+#INFO.md
